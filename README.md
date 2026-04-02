@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Manmohan
 
-<!--
-**manmohan-dev0/manmohan-dev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student  
+💻 Currently learning DSA & Web Development  
+🚀 Passionate about coding and building projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills (Learning)
+- C / C++
+- HTML, CSS, JavaScript
+- Problem Solving
+
+---
+
+## 📫 Connect with me
+- LinkedIn: (www.linkedin.com/in/manmohan-jha-96862433b)
+
+---
+
+## ⚡ Fun Fact
+I am on a journey to become a Software Developer 🚀
