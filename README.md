@@ -2,7 +2,7 @@
 
 🎓 BTech CSE Student  
 💻 Currently learning DSA & Web Development  
-🚀 Passionate about coding and building projects  
+🚀 Passionate about coding, problem solving & building real-world projects  
 
 ---
 
@@ -10,7 +10,7 @@
 - C / C++
 - HTML, CSS, JavaScript
 - Problem Solving
-
+- Currently improving my problem-solving skills and exploring new technologies
 ---
 
 ## 📫 Connect with me
@@ -19,4 +19,4 @@
 ---
 
 ## ⚡ Fun Fact
-I am on a journey to become a Software Developer 🚀
+⚡ I believe consistency can beat talent in coding 🚀
