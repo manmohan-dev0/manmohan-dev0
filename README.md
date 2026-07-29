@@ -7,8 +7,9 @@
 ---
 
 ## 🛠️ Skills (Learning)
-- C / C++
-- HTML, CSS, JavaScript
+- C 
+- HTML
+- python
 - Problem Solving
 - Currently improving my problem-solving skills and exploring new technologies
 ---
