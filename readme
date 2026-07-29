@@ -1,0 +1,33 @@
+# AI Voice Assistant(learning project)
+
+## Features
+
+- Speech Recognition
+- Text To Speech
+- Wikipedia Search
+- OpenAI Integration
+- WolframAlpha
+- Battery Status
+- CPU Usage
+- Shutdown
+- Restart
+
+## Technologies
+
+Python
+SpeechRecognition
+pyttsx3
+OpenAI
+Wikipedia
+PyWhatKit
+PyAutoGUI
+psutil
+
+## Concepts Explored
+
+APIs
+Voice recognition
+Python libraries
+AI integration
+System automation
+Command handling
