@@ -14,11 +14,8 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn: (www.linkedin.com/in/manmohan-jha-96862433b)
-- Instagram: (https://www.instagram.com/itz_manmohan_00_?igsh=MWRrbGVlYXg0eDh5YQ==)
-- Facebook: (https://www.facebook.com/share/1CXHushwuN/)
-
----
+-  manmohanjha902@gmail.com
+-  LinkedIn: (www.linkedin.com/in/manmohan-jha-96862433b)
 
 ## ⚡ Fun Fact
 ⚡ I believe consistency can beat talent in coding 🚀
