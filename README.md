@@ -21,7 +21,7 @@
 
 ## 📫 Connect with me
 -  manmohanjha902@gmail.com
--  LinkedIn: (www.linkedin.com/in/manmohan-jha-96862433b)
+-  www.linkedin.com/in/manmohan-jha-96862433b
 
 ## ⚡ Fun Fact
 ⚡ I believe consistency can beat talent in coding 🚀
